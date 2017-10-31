@@ -1,0 +1,14 @@
+Instalacion manual de una plantilla 
+con bakend y frontend [asi como lo hicimos en la caja - Ya estamos a a ese level ...=) )
+https://www.youtube.com/watch?v=PcUuedFkxxQ
+
+
+
+creacion de Servicios rest 
+https://www.youtube.com/watch?v=xrdC222CO0U
+https://www.youtube.com/watch?v=Hko3AZE5b9M
+
+
+
+
+https://www.youtube.com/watch?v=ERPhGu3oz4E
